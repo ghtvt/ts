@@ -1,4 +1,4 @@
-{"spider": "https://cdn.jsdelivr.net/gh/ww5934/ts/custom_spider.txt;md5;7573e5dee052b6b1661a0bc400f190cc",
+{"spider": "https://cdn.jsdelivr.net/gh/ww5934/ts/custom_spider.txt",
 "wallpaper": "https://picsum.photos/1280/720/?blur=5", 
 "lives": [{"group": "redirect", "channels": [{"name": "redirect", "urls": ["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9yYXkvdHZsaXZlLnR4dA=="]}]}], 
 "sites": [
@@ -91,7 +91,7 @@
 }, 
 {"key": "AList", "name": "NASAList(网盘)", "type": "3", "api": "csp_AList", "searchable": "1", "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"
 },
-{"key": "17kan", "name": "17看直播(体育)", "type": 3, "api": "csp_XYQBiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/17kan.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt;md5;0158283d78af000f91f9ad39ce1d1fb4"
+{"key": "17kan", "name": "17看直播(体育)", "type": 3, "api": "csp_XYQBiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/17kan.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt"
 }, 
 {"key": "dr_88看球", "name": "88看球(体育)", "type": 3, "api": "https://gitlab.com/duomv/duo/-/raw/main/js/drpymin.js", "searchable": 0, "quickSearch": 0, "filterable": 0, "ext": "https://gitlab.com/duomv/duo/-/raw/main/js/88%E7%9C%8B%E7%90%83.js"
 }, 
@@ -99,90 +99,90 @@
 }, 
 {"key": "4K", "name": "4K资源网(规则)", "type": 3, "api": "csp_xBPQ", "filterable": 1, "quickSearch": 1, "searchable": 1, "playerType": "1", "ext": "https://agit.ai/xiaohewanwan/atest/raw/branch/master/4kvm.json","jar": "http://ys-n.ysepan.com/622543243/713335850/hwRJWWm54555I2XKJMLJ46/xo.jar;md5;6fc17c97e76823a606bc00cea00c2ab5"
 },  
-//{"key": "qiyou", "name": "️🌹奇优影院(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/qiyou.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt;md5;0158283d78af000f91f9ad39ce1d1fb4"
+//{"key": "qiyou", "name": "️🌹奇优影院(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/qiyou.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt"
 //},
 //{"key": "诺讯", "name": "️诺讯影视(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/%E8%AF%BA%E8%AE%AF%E8%B5%84%E6%BA%90.json", "jar": "http://ys-c.ysepan.com/622543221/713331582/gvTKRKp75363K1KK6N3La2/xo%20(1).jar;md5;edaac605b8f6c297b19d34464721f869"
 //}, 
 //{"key": "Aifan", "name": "️Aifan影视(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/Aifan.json", "jar": "http://ys-c.ysepan.com/622543221/713331582/gvTKRKp75363K1KK6N3La2/xo%20(1).jar;md5;edaac605b8f6c297b19d34464721f869"
 //}, 
-{"key": "饺子", "name": "️饺子影视(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/%E9%A5%BA%E5%AD%90.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt;md5;0158283d78af000f91f9ad39ce1d1fb4"
+{"key": "饺子", "name": "️饺子影视(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/%E9%A5%BA%E5%AD%90.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt"
 }, 
-{"key": "吼吼", "name": "️吼吼影视(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/%E5%90%BC%E5%90%BC%E8%A7%86%E9%A2%91.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt;md5;0158283d78af000f91f9ad39ce1d1fb4"
+{"key": "吼吼", "name": "️吼吼影视(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/%E5%90%BC%E5%90%BC%E8%A7%86%E9%A2%91.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt"
 }, 
-{"key": "素白白", "name": "️素白影视(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/%e7%b4%a0%e7%99%bd%e7%99%bd%e5%bd%b1%e8%a7%86.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt;md5;0158283d78af000f91f9ad39ce1d1fb4"
+{"key": "素白白", "name": "️素白影视(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/%e7%b4%a0%e7%99%bd%e7%99%bd%e5%bd%b1%e8%a7%86.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt"
 },   
-{"key": "007", "name": "️零七影视(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/007ys.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt;md5;0158283d78af000f91f9ad39ce1d1fb4"
+{"key": "007", "name": "️零七影视(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/007ys.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt"
 }, 
-{"key": "青年影院", "name": "️青年影视(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/%e9%9d%92%e5%b9%b4%e5%bd%b1%e8%a7%86.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt;md5;0158283d78af000f91f9ad39ce1d1fb4"
+{"key": "青年影院", "name": "️青年影视(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/%e9%9d%92%e5%b9%b4%e5%bd%b1%e8%a7%86.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt"
 }, 
-{"key": "剧白", "name": "️剧白影视(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/jubaibai.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt;md5;0158283d78af000f91f9ad39ce1d1fb4"
+{"key": "剧白", "name": "️剧白影视(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/jubaibai.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt"
 }, 
-{"key": "布雷", "name": "️布蕾影视(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/%E5%B8%83%E8%95%BE%E5%BD%B1%E8%A7%86.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt;md5;0158283d78af000f91f9ad39ce1d1fb4"
+{"key": "布雷", "name": "️布蕾影视(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/%E5%B8%83%E8%95%BE%E5%BD%B1%E8%A7%86.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt"
 }, 
-{"key": "csp_xf_heihei", "name": "️嘿嘿影视(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/heihei.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt;md5;0158283d78af000f91f9ad39ce1d1fb4"
+{"key": "csp_xf_heihei", "name": "️嘿嘿影视(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/heihei.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt"
 },
-{"key": "miaomiao", "name": "️喵喵影视(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/maiomiao.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt;md5;0158283d78af000f91f9ad39ce1d1fb4"
+{"key": "miaomiao", "name": "️喵喵影视(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/maiomiao.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt"
 },
-{"key": "美剧虫", "name": "️美剧虫子(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/%E7%BE%8E%E5%89%A7%E8%99%AB.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt;md5;0158283d78af000f91f9ad39ce1d1fb4"
+{"key": "美剧虫", "name": "️美剧虫子(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/%E7%BE%8E%E5%89%A7%E8%99%AB.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt"
 }, 
-{"key": "kankan", "name": "️看看影视(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/cehsi.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt;md5;0158283d78af000f91f9ad39ce1d1fb4"
+{"key": "kankan", "name": "️看看影视(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/cehsi.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt"
 }, 
-{"key": "稀饭", "name": "️稀饭影视(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/xifang.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt;md5;0158283d78af000f91f9ad39ce1d1fb4"
+{"key": "稀饭", "name": "️稀饭影视(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/xifang.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt"
 }, 
-{"key": "特播", "name": "️特播影视(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/%e7%89%b9%e6%92%ad%e5%bd%b1%e8%a7%86.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt;md5;0158283d78af000f91f9ad39ce1d1fb4"
+{"key": "特播", "name": "️特播影视(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/%e7%89%b9%e6%92%ad%e5%bd%b1%e8%a7%86.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt"
 }, 
-{"key": "看一看", "name": "️看一看影(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/%e7%9c%8b%e4%b8%80%e7%9c%8b%e5%bd%b1%e8%a7%86.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt;md5;0158283d78af000f91f9ad39ce1d1fb4"
+{"key": "看一看", "name": "️看一看影(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/%e7%9c%8b%e4%b8%80%e7%9c%8b%e5%bd%b1%e8%a7%86.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt"
 }, 
-{"key": "大猪蹄子", "name": "️大猪蹄子(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/%E5%A4%A7%E7%8C%AA%E8%B9%84%E5%AD%90.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt;md5;0158283d78af000f91f9ad39ce1d1fb4"
+{"key": "大猪蹄子", "name": "️大猪蹄子(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/%E5%A4%A7%E7%8C%AA%E8%B9%84%E5%AD%90.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt"
 }, 
-{"key": "奈飞影视", "name": "️奈飞影视(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/naifei.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt;md5;0158283d78af000f91f9ad39ce1d1fb4"
+{"key": "奈飞影视", "name": "️奈飞影视(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/naifei.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt"
 }, 
-{"key": "素白1", "name": "️素白影视(规则)", "type": 3, "api": "csp_XYQBiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/subaibai2.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt;md5;0158283d78af000f91f9ad39ce1d1fb4"
+{"key": "素白1", "name": "️素白影视(规则)", "type": 3, "api": "csp_XYQBiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/subaibai2.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt"
 }, 
-{"key": "zizi", "name": "️子子影视(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/zizi.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt;md5;0158283d78af000f91f9ad39ce1d1fb4"
+{"key": "zizi", "name": "️子子影视(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/zizi.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt"
 }, 
-{"key": "3333影视", "name": "️3333影视(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/xyqh_333%e5%bd%b1%e8%a7%86.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt;md5;0158283d78af000f91f9ad39ce1d1fb4"
+{"key": "3333影视", "name": "️3333影视(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/xyqh_333%e5%bd%b1%e8%a7%86.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt"
 }, 
-{"key": "fositv影视", "name": "️猫咪电影(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/fositv.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt;md5;0158283d78af000f91f9ad39ce1d1fb4"
+{"key": "fositv影视", "name": "️猫咪电影(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/fositv.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt"
 }, 
-{"key": "纽约影院", "name": "纽约影院(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/%e7%ba%bd%e7%ba%a6%e5%bd%b1%e9%99%a2.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt;md5;0158283d78af000f91f9ad39ce1d1fb4"
+{"key": "纽约影院", "name": "纽约影院(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/%e7%ba%bd%e7%ba%a6%e5%bd%b1%e9%99%a2.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt"
 }, 
-{"key": "pianku", "name": "️假片库网(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/pianku.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt;md5;0158283d78af000f91f9ad39ce1d1fb4"
+{"key": "pianku", "name": "️假片库网(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/pianku.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt"
 }, 
-{"key": "fanqie", "name": "️番茄动漫(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/%E7%95%AA%E8%8C%84%E5%8A%A8%E6%BC%AB.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt;md5;0158283d78af000f91f9ad39ce1d1fb4"
+{"key": "fanqie", "name": "️番茄动漫(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/%E7%95%AA%E8%8C%84%E5%8A%A8%E6%BC%AB.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt"
 }, 
-{"key": "40", "name": "星辰影院(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/40ys.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt;md5;0158283d78af000f91f9ad39ce1d1fb4"
+{"key": "40", "name": "星辰影院(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/40ys.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt"
 }, 
-{"key": "真不卡", "name": "️不卡影视(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/zhenbuka.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt;md5;0158283d78af000f91f9ad39ce1d1fb4"
+{"key": "真不卡", "name": "️不卡影视(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/zhenbuka.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt"
 }, 
-{"key": "imax", "name": "imax影院(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/imaxw.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt;md5;0158283d78af000f91f9ad39ce1d1fb4"
+{"key": "imax", "name": "imax影院(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/imaxw.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt"
 }, 
-{"key": "101视频", "name": "️噜噜影视(H规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/101.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt;md5;0158283d78af000f91f9ad39ce1d1fb4"
+{"key": "101视频", "name": "️噜噜影视(H规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/101.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt"
 }, 
-{"key": "aifei", "name": "️艾菲影院(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/aifei.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt;md5;0158283d78af000f91f9ad39ce1d1fb4"
+{"key": "aifei", "name": "️艾菲影院(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/aifei.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt"
 }, 
-{"key": "123", "name": "️R P影视(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/rp123.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt;md5;0158283d78af000f91f9ad39ce1d1fb4"
+{"key": "123", "name": "️R P影视(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/rp123.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt"
 }, 
-{"key": "影视之光", "name": "️影视之光(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/yszg.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt;md5;0158283d78af000f91f9ad39ce1d1fb4"
+{"key": "影视之光", "name": "️影视之光(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/yszg.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt"
 }, 
-{"key": "kanpain", "name": "️看片狂人(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/kanpin.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt;md5;0158283d78af000f91f9ad39ce1d1fb4"
+{"key": "kanpain", "name": "️看片狂人(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/kanpin.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt"
 }, 
-{"key": "耐看", "name": "️耐看影视(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/naikan.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt;md5;0158283d78af000f91f9ad39ce1d1fb4"
+{"key": "耐看", "name": "️耐看影视(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/naikan.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt"
 }, 
-{"key": "300看世界", "name": "️三百世界(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/300kanshijie.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt;md5;0158283d78af000f91f9ad39ce1d1fb4"
+{"key": "300看世界", "name": "️三百世界(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/300kanshijie.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt"
 }, 
-{"key": "爱看", "name": "爱看电影(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/lovekan.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt;md5;0158283d78af000f91f9ad39ce1d1fb4"
+{"key": "爱看", "name": "爱看电影(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/lovekan.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt"
 }, 
-{"key": "影视之家", "name": "️影视之家(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/yszj.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt;md5;0158283d78af000f91f9ad39ce1d1fb4"
+{"key": "影视之家", "name": "️影视之家(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/yszj.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt"
 }, 
-{"key": "freeok", "name": "️freeok影视(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/freeok.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt;md5;0158283d78af000f91f9ad39ce1d1fb4"
+{"key": "freeok", "name": "️freeok影视(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/freeok.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt"
 }, 
-{"key": "新视觉", "name": "️视觉影视(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/newshijue.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt;md5;0158283d78af000f91f9ad39ce1d1fb4"
+{"key": "新视觉", "name": "️视觉影视(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/newshijue.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt"
 },
 {"key":"优质资源","name":"优质资源(切)","type":1,"api":"https://api.1080zyku.com/inc/apijson.php/provide/vod/","searchable":1,"quickSearch":1 ,"categories": ["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]
 },
 
-{"key": "白嫖者联盟", "name": "️白嫖联盟(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/bpzlm.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt;md5;0158283d78af000f91f9ad39ce1d1fb4"
+{"key": "白嫖者联盟", "name": "️白嫖联盟(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/bpzlm.json", "jar": "https://cdn.jsdelivr.net/gh/ww5934/ts/xh1122.txt"
 }, 
 {"key": "push_agent", "name": "推送影视(网页)", "type": 3, "api": "csp_PushAgent", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"
 }
