@@ -111,8 +111,8 @@
 }, 
 {"key": "素白白", "name": "️素白影视(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/%e7%b4%a0%e7%99%bd%e7%99%bd%e5%bd%b1%e8%a7%86.json", "jar": "https://raw.iqiq.io/ww5934/ts/main/xh1122.jar;md5;0158283d78af000f91f9ad39ce1d1fb4"
 },   
-{"key": "007", "name": "️零七影视(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/007ys.json", "jar": "https://raw.iqiq.io/ww5934/ts/main/xh1122.jar;md5;0158283d78af000f91f9ad39ce1d1fb4"
-}, 
+//{"key": "007", "name": "️零七影视(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/007ys.json", "jar": "https://raw.iqiq.io/ww5934/ts/main/xh1122.jar;md5;0158283d78af000f91f9ad39ce1d1fb4"
+//}, 
 {"key": "青年影院", "name": "️青年影视(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/%e9%9d%92%e5%b9%b4%e5%bd%b1%e8%a7%86.json", "jar": "https://raw.iqiq.io/ww5934/ts/main/xh1122.jar;md5;0158283d78af000f91f9ad39ce1d1fb4"
 }, 
 {"key": "剧白", "name": "️剧白影视(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/jubaibai.json", "jar": "https://raw.iqiq.io/ww5934/ts/main/xh1122.jar;md5;0158283d78af000f91f9ad39ce1d1fb4"
@@ -131,8 +131,8 @@
 }, 
 {"key": "特播", "name": "️特播影视(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/%e7%89%b9%e6%92%ad%e5%bd%b1%e8%a7%86.json", "jar": "https://raw.iqiq.io/ww5934/ts/main/xh1122.jar;md5;0158283d78af000f91f9ad39ce1d1fb4"
 }, 
-{"key": "看一看", "name": "️看一看影(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/%e7%9c%8b%e4%b8%80%e7%9c%8b%e5%bd%b1%e8%a7%86.json", "jar": "https://raw.iqiq.io/ww5934/ts/main/xh1122.jar;md5;0158283d78af000f91f9ad39ce1d1fb4"
-}, 
+//{"key": "看一看", "name": "️看一看影(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/%e7%9c%8b%e4%b8%80%e7%9c%8b%e5%bd%b1%e8%a7%86.json", "jar": "https://raw.iqiq.io/ww5934/ts/main/xh1122.jar;md5;0158283d78af000f91f9ad39ce1d1fb4"
+//}, 
 {"key": "大猪蹄子", "name": "️大猪蹄子(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/%E5%A4%A7%E7%8C%AA%E8%B9%84%E5%AD%90.json", "jar": "https://raw.iqiq.io/ww5934/ts/main/xh1122.jar;md5;0158283d78af000f91f9ad39ce1d1fb4"
 }, 
 {"key": "奈飞影视", "name": "️奈飞影视(规则)", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/ww5934/AA/XH/naifei.json", "jar": "https://raw.iqiq.io/ww5934/ts/main/xh1122.jar;md5;0158283d78af000f91f9ad39ce1d1fb4"
