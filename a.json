@@ -272,6 +272,8 @@
 },
 {"key": "drpy_js_TV云播","name": "影视 | TV云播[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/TV云播.js"
 },
+{"key": "drpy_js_荐片","name": "影视 | 荐片[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/荐片.js"
+},
 {"key": "drpy_js_fositv","name": "影视 | fositv[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/fositv.js"
 },
 {"key": "drpy_js_影渣渣","name": "影视 | 影渣渣[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/影渣渣.js"
