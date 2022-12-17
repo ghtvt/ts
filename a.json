@@ -272,8 +272,6 @@
 },
 {"key": "drpy_js_TV云播","name": "影视 | TV云播[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/TV云播.js"
 },
-{"key": "drpy_js_荐片","name": "影视 | 荐片[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/荐片.js"
-},
 {"key": "drpy_js_fositv","name": "影视 | fositv[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/fositv.js"
 },
 {"key": "drpy_js_影渣渣","name": "影视 | 影渣渣[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/影渣渣.js"
@@ -548,7 +546,7 @@
 },
 {"name": "①号解析","url": "https://jiuku.site/addons/dp/player/index.php?key=0&id=104818&url=","type": 0,"ext": {"flag": ["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header": {"User-Agent": "Mozilla/5.0"}},"header": {"User-Agent": "Mozilla/5.0"}
 },
-{"name": "②号解析","type": 1,"url": "https://lziplayer.com/?url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}
+{"name": "②号解析","type": 1,"url": "http://47.108.39.237:55/api/?key=01g4LZuWQpF9pLfWRX&url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}
 },
 {"name": "③号解析","type": 1,"url": "http://110.42.2.115:880/analysis/json/?uid=2100&my=cqrtwyACDGLOXY0249&mgtv=app&url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}
 },
@@ -565,8 +563,6 @@
 {"name": "⑨号解析","type": 0,"url": "http://jx.gbxy.net.cn/?url="
 },
 {"name": "⑩号解析","type": 1,"url": "https://parse.ikunfk.cc/parse/sign/7859e0a8dc5af097c2df1294786a3456?url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"]}
-},
-{"name": "①①号解析","type": 1,"url": "https://h5.freejson.xyz/player/?url="
 }
 ],
 "rules": [
