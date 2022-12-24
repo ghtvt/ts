@@ -1,6 +1,6 @@
 {"spider": "https://raw.iqiq.io/ww5934/ts/main/custom_spider.jar;md5;161bad042c5d23c995a89c80f2ca627c",
 "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9yYXkvdHZsaXZlLnR4dA=="]}]}],
+"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]}]}],
 "sites": [
 {"key": "js豆瓣","name": "豆瓣荐片┃dr首页","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 0
 },
