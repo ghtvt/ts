@@ -8,71 +8,71 @@
 },
 {"key": "一起看","name": "一起看｜APP","type": "3","api": "csp_Dora","searchable": "1","quickSearch": "1","filterable": "1","ext": "8e3aefcba838d8dc5102ac786719d837"
 },
-{"key": "csp_Xinsj","name": "💯视觉电影(爬虫)","type": 3,"api": "csp_Xinsj","searchable": 1,"quickSearch": 1,"filterable": 1
+{"key": "csp_Xinsj","name": "💯视觉电影(SP)","type": 3,"api": "csp_Xinsj","searchable": 1,"quickSearch": 1,"filterable": 1
 },
-{"key": "csp_剧荒","name": "💯剧荒美剧(爬虫)","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1
+{"key": "csp_剧荒","name": "💯剧荒美剧(SP)","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1
 },
-{"key": "饭团","name": "💯饭团高清(爬虫)","type": 3,"api": "csp_Fantuan","searchable": 1,"quickSearch": 1,"filterable": 1
+{"key": "饭团","name": "💯饭团高清(SP)","type": 3,"api": "csp_Fantuan","searchable": 1,"quickSearch": 1,"filterable": 1
 },
-{"key": "Kuaikan","name": "💯快看影视(爬虫)","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1
+{"key": "Kuaikan","name": "💯快看影视(SP)","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1
 },
-{"key": "Pang1","name": "🍓胖虎影视(爬虫)","type": "3","api": "csp_Panghu","searchable": "1","quickSearch": "1","filterable": "1"
+{"key": "Pang1","name": "🍓胖虎影视(SP)","type": "3","api": "csp_Panghu","searchable": "1","quickSearch": "1","filterable": "1"
 },
-{"key": "csp_Nmys","name": "🍓农民影视(爬虫)","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Nmys.json"
+{"key": "csp_Nmys","name": "🍓农民影视(SP)","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Nmys.json"
 },
-{"key": "Lgyy","name": "蓝光影院(爬虫)","type": "3","api": "csp_Lgyy","searchable": "1","quickSearch": "1","filterable": "1"
+{"key": "Lgyy","name": "蓝光影院(SP)","type": "3","api": "csp_Lgyy","searchable": "1","quickSearch": "1","filterable": "1"
 },
-{"key": "南柯","name": "南柯视频(爬虫)","type": 3,"api": "csp_Nkdy","searchable": 1,"quickSearch": 1,"filterable": 1
+{"key": "南柯","name": "南柯视频(SP)","type": 3,"api": "csp_Nkdy","searchable": 1,"quickSearch": 1,"filterable": 1
 },
-{"key": "Auete","name": "奥特影视(爬虫)","type": "3","api": "csp_Auete","searchable": "1","quickSearch": "1","filterable": "1"
+{"key": "Auete","name": "奥特影视(SP)","type": "3","api": "csp_Auete","searchable": "1","quickSearch": "1","filterable": "1"
 },
-{"key": "Lib","name": "利奥影视(爬虫)","type": "3","api": "csp_Lib","searchable": "1","quickSearch": "1","filterable": "1"
+{"key": "Lib","name": "利奥影视(SP)","type": "3","api": "csp_Lib","searchable": "1","quickSearch": "1","filterable": "1"
 },
-{"key": "Kunyu","name": "酷云七七(爬虫)","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1
+{"key": "Kunyu","name": "酷云七七(SP)","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1
 },
-{"key": "Czsapp","name": "厂长资源(爬虫)","type": "3","api": "csp_Czsapp","searchable": "1","quickSearch": "1","filterable": "1"
+{"key": "Czsapp","name": "厂长资源(SP)","type": "3","api": "csp_Czsapp","searchable": "1","quickSearch": "1","filterable": "1"
 },
-{"key": "Ddys","name": "低端美剧(爬虫)","type": 3,"api": "csp_Ddrk","searchable": 1,"quickSearch": 1,"click": "ddys.tv;#vjsp > button","filterable": 1
+{"key": "Ddys","name": "低端美剧(SP)","type": 3,"api": "csp_Ddrk","searchable": 1,"quickSearch": 1,"click": "ddys.tv;#vjsp > button","filterable": 1
 },
-{"key": "Zxzj","name": "在线之家(爬虫)","type": "3","api": "csp_Zxzj","searchable": "1","quickSearch": "1","filterable": 1
+{"key": "Zxzj","name": "在线之家(SP)","type": "3","api": "csp_Zxzj","searchable": "1","quickSearch": "1","filterable": 1
 },
-{"key": "Bili1","name": "哔哩哔哩(爬虫)","type": "3","api": "csp_Bili","searchable": "1","quickSearch": "1","filterable": "1","ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json"
+{"key": "Bili1","name": "哔哩哔哩(SP)","type": "3","api": "csp_Bili","searchable": "1","quickSearch": "1","filterable": "1","ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json"
 },
-{"key": "Apple","name": "苹果影视(爬虫)","type": "3","api": "csp_LiteApple","searchable": "1","quickSearch": "1","playerType": "1","filterable": "1"
+{"key": "Apple","name": "苹果影视(SP)","type": "3","api": "csp_LiteApple","searchable": "1","quickSearch": "1","playerType": "1","filterable": "1"
 },
-{"key": "lezhu","name": "乐猪影视(爬虫)","type": "3","api": "csp_Lezhu","searchable": "1","quickSearch": "1","filterable": "1"
+{"key": "lezhu","name": "乐猪影视(SP)","type": "3","api": "csp_Lezhu","searchable": "1","quickSearch": "1","filterable": "1"
 },
-{"key": "Cokemv","name": "可乐影视(爬虫)","type": "3","api": "csp_Cokemv","searchable": "1","quickSearch": "1","playerType": "1","filterable": "1"
+{"key": "Cokemv","name": "可乐影视(SP)","type": "3","api": "csp_Cokemv","searchable": "1","quickSearch": "1","playerType": "1","filterable": "1"
 },
-{"key": "双十","name": "双十影视(爬虫)","type": 3,"api": "csp_Dy1010","searchable": 1,"quickSearch": 1,"filterable": 1
+{"key": "双十","name": "双十影视(SP)","type": 3,"api": "csp_Dy1010","searchable": 1,"quickSearch": 1,"filterable": 1
 },
 {"key": "Gitcafe","name": "阿里纸条(网盘)","type": "3","api": "csp_Gitcafe","searchable": "1","quickSearch": "1","filterable": "1","ext": "https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"
 },
-{"key": "BT","name": "2BT影视(爬虫)","type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1
+{"key": "BT","name": "2BT影视(SP)","type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1
 },
-{"key": "bdys","name": "哔滴影视(爬虫)","type": 3,"api": "csp_Bdys01","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": "1"
+{"key": "bdys","name": "哔滴影视(SP)","type": 3,"api": "csp_Bdys01","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": "1"
 },
-{"key": "csp_Vofilx","name": "Voflix影视(爬虫)","type": 3,"api": "csp_Voflix","searchable": 1,"quickSearch": 1,"filterable": 1
+{"key": "csp_Vofilx","name": "Voflix影视(SP)","type": 3,"api": "csp_Voflix","searchable": 1,"quickSearch": 1,"filterable": 1
 },
-{"key": "csp_Mjxq","name": "美剧星球(爬虫)","type": 3,"api": "csp_Mjxq","searchable": 1,"quickSearch": 1,"filterable": 1
+{"key": "csp_Mjxq","name": "美剧星球(SP)","type": 3,"api": "csp_Mjxq","searchable": 1,"quickSearch": 1,"filterable": 1
 },
-{"key": "csp_Yj1211","name": "网游直播(爬虫)","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1
+{"key": "csp_Yj1211","name": "网游直播(SP)","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1
 },
-{"key": "csp_Anime1","name": "日本动漫(爬虫)","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1
+{"key": "csp_Anime1","name": "日本动漫(SP)","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1
 },
 {"key": "一起看","name": "一起看电影┃APP","type": "3","api": "csp_Dora","searchable": "1","quickSearch": "1","filterable": "1","ext": "8e3aefcba838d8dc5102ac786719d837","jar": "http://w.g9.pub:66/2251087869/smallmi/jar/custom_spider.jar;md5;7573e5dee052b6b1661a0bc400f190cc"
 },
-{"key": "Dy5551","name": "5555影视(爬虫)","type": "3","api": "csp_Dora","searchable": "1","quickSearch": "1","filterable": "1","ext": "f41992bd740145ed58cb212dc0876582","jar": "http://w.g9.pub:66/2251087869/smallmi/jar/custom_spider.jar;md5;7573e5dee052b6b1661a0bc400f190cc"
+{"key": "Dy5551","name": "5555影视(SP)","type": "3","api": "csp_Dora","searchable": "1","quickSearch": "1","filterable": "1","ext": "f41992bd740145ed58cb212dc0876582","jar": "http://w.g9.pub:66/2251087869/smallmi/jar/custom_spider.jar;md5;7573e5dee052b6b1661a0bc400f190cc"
 },
-{"key": "IKan","name": "爱看影视(爬虫)","type": "3","api": "csp_Dora","searchable": "1","quickSearch": "1","filterable": "1","ext": "a4ce9a4ba7d4f4bced2ff9dfc4ab4e50","jar": "http://w.g9.pub:66/2251087869/smallmi/jar/custom_spider.jar;md5;7573e5dee052b6b1661a0bc400f190cc"
+{"key": "IKan","name": "爱看影视(SP)","type": "3","api": "csp_Dora","searchable": "1","quickSearch": "1","filterable": "1","ext": "a4ce9a4ba7d4f4bced2ff9dfc4ab4e50","jar": "http://w.g9.pub:66/2251087869/smallmi/jar/custom_spider.jar;md5;7573e5dee052b6b1661a0bc400f190cc"
 },
-{"key": "Yanet1","name": "鸭鸭奈非(爬虫)","type": "3","api": "csp_Dora","searchable": "1","quickSearch": "1","filterable": "1","ext": "a369b1f623fe86605f1b029f0cf66349","jar": "http://w.g9.pub:66/2251087869/smallmi/jar/custom_spider.jar;md5;7573e5dee052b6b1661a0bc400f190cc"
+{"key": "Yanet1","name": "鸭鸭奈非(SP)","type": "3","api": "csp_Dora","searchable": "1","quickSearch": "1","filterable": "1","ext": "a369b1f623fe86605f1b029f0cf66349","jar": "http://w.g9.pub:66/2251087869/smallmi/jar/custom_spider.jar;md5;7573e5dee052b6b1661a0bc400f190cc"
 },
-{"key": "Hei1","name": "石榴影视(爬虫)","type": "3","api": "csp_Dora","searchable": "1","quickSearch": "1","filterable": "1","ext": "3bff500c8b1e06c052a1b0f1f7a62b45","jar": "http://w.g9.pub:66/2251087869/smallmi/jar/custom_spider.jar;md5;7573e5dee052b6b1661a0bc400f190cc"
+{"key": "Hei1","name": "石榴影视(SP)","type": "3","api": "csp_Dora","searchable": "1","quickSearch": "1","filterable": "1","ext": "3bff500c8b1e06c052a1b0f1f7a62b45","jar": "http://w.g9.pub:66/2251087869/smallmi/jar/custom_spider.jar;md5;7573e5dee052b6b1661a0bc400f190cc"
 },
-{"key": "Dm84","name": "动漫巴士(爬虫)","type": "3","api": "csp_Dora","searchable": "1","quickSearch": "1","filterable": "1","ext": "572192a9fe2136041a58e7219a46fb2b","jar": "http://w.g9.pub:66/2251087869/smallmi/jar/custom_spider.jar;md5;7573e5dee052b6b1661a0bc400f190cc"
+{"key": "Dm84","name": "动漫巴士(SP)","type": "3","api": "csp_Dora","searchable": "1","quickSearch": "1","filterable": "1","ext": "572192a9fe2136041a58e7219a46fb2b","jar": "http://w.g9.pub:66/2251087869/smallmi/jar/custom_spider.jar;md5;7573e5dee052b6b1661a0bc400f190cc"
 },
-{"key": "AppTT","name": "图图影视(爬虫)","type": 3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "110c922de7d69804467fb83d3bb664b5","jar": "http://w.g9.pub:66/2251087869/smallmi/jar/custom_spider.jar;md5;7573e5dee052b6b1661a0bc400f190cc"
+{"key": "AppTT","name": "图图影视(SP)","type": 3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "110c922de7d69804467fb83d3bb664b5","jar": "http://w.g9.pub:66/2251087869/smallmi/jar/custom_spider.jar;md5;7573e5dee052b6b1661a0bc400f190cc"
 },
 {"key": "Gitcafe","name": "阿里纸条(网盘)","type": "3","api": "csp_Gitcafe","searchable": "1","quickSearch": "1","filterable": "1","ext": "https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"
 },
