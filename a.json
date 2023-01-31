@@ -1,4 +1,4 @@
-{"spider": "https://raw.iqiq.io/ww5934/ts/main/custom_spider.jar;md5;161bad042c5d23c995a89c80f2ca627c",
+{"spider": "https://raw.fastgit.org/ww5934/ts/main/custom_spider.jar;md5;161bad042c5d23c995a89c80f2ca627c",
 "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]}]}],
 "sites": [
@@ -86,7 +86,7 @@
 },
 {"key": "AList","name": "NASAList(网盘)","type": "3","api": "csp_AList","searchable": "1","ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"
 },
-{"key": "17kan","name": "17看直播(体育)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/ww5934/AA/master/XH/17kan.json","jar": "https://raw.iqiq.io/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+{"key": "17kan","name": "17看直播(体育)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.fastgit.org/ww5934/AA/master/XH/17kan.json","jar": "https://raw.fastgit.org/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
 },
 {"key": "dr_88看球","name": "88看球(体育)","type": 3,"api": "https://gitlab.com/duomv/duo/-/raw/main/js/drpymin.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://gitlab.com/duomv/duo/-/raw/main/js/88%E7%9C%8B%E7%90%83.js"
 },
@@ -94,381 +94,381 @@
 },
 {"key": "4K","name": "4K资源网(规则)","type": 3,"api": "csp_xBPQ","filterable": 1,"quickSearch": 1,"searchable": 1,"playerType": "1","ext": "https://agit.ai/xiaohewanwan/atest/raw/branch/master/4kvm.json"
 },
-{"key": "奇优","name": "️奇优影院(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/ww5934/AA/master/XH/qiyou.json","jar": "https://raw.iqiq.io/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+{"key": "奇优","name": "️奇优影院(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.fastgit.org/ww5934/AA/master/XH/qiyou.json","jar": "https://raw.fastgit.org/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
 },
-{"key": "饺子","name": "️饺子影视(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/ww5934/AA/master/XH/%E9%A5%BA%E5%AD%90.json","jar": "https://raw.iqiq.io/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+{"key": "饺子","name": "️饺子影视(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.fastgit.org/ww5934/AA/master/XH/%E9%A5%BA%E5%AD%90.json","jar": "https://raw.fastgit.org/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
 },
-{"key": "吼吼","name": "️吼吼影视(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/ww5934/AA/master/XH/%E5%90%BC%E5%90%BC%E8%A7%86%E9%A2%91.json","jar": "https://raw.iqiq.io/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+{"key": "吼吼","name": "️吼吼影视(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.fastgit.org/ww5934/AA/master/XH/%E5%90%BC%E5%90%BC%E8%A7%86%E9%A2%91.json","jar": "https://raw.fastgit.org/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
 },
-{"key": "素白白","name": "️素白影视(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/ww5934/AA/master/XH/%e7%b4%a0%e7%99%bd%e7%99%bd%e5%bd%b1%e8%a7%86.json","jar": "https://raw.iqiq.io/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+{"key": "素白白","name": "️素白影视(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.fastgit.org/ww5934/AA/master/XH/%e7%b4%a0%e7%99%bd%e7%99%bd%e5%bd%b1%e8%a7%86.json","jar": "https://raw.fastgit.org/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
 },
-{"key": "青年影院","name": "️青年影视(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/ww5934/AA/master/XH/%e9%9d%92%e5%b9%b4%e5%bd%b1%e8%a7%86.json","jar": "https://raw.iqiq.io/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+{"key": "青年影院","name": "️青年影视(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.fastgit.org/ww5934/AA/master/XH/%e9%9d%92%e5%b9%b4%e5%bd%b1%e8%a7%86.json","jar": "https://raw.fastgit.org/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
 },
-{"key": "剧白","name": "️剧白影视(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/ww5934/AA/master/XH/jubaibai.json","jar": "https://raw.iqiq.io/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+{"key": "剧白","name": "️剧白影视(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.fastgit.org/ww5934/AA/master/XH/jubaibai.json","jar": "https://raw.fastgit.org/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
 },
-{"key": "布雷","name": "️布蕾影视(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/ww5934/AA/master/XH/%E5%B8%83%E8%95%BE%E5%BD%B1%E8%A7%86.json","jar": "https://raw.iqiq.io/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+{"key": "布雷","name": "️布蕾影视(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.fastgit.org/ww5934/AA/master/XH/%E5%B8%83%E8%95%BE%E5%BD%B1%E8%A7%86.json","jar": "https://raw.fastgit.org/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
 },
-{"key": "csp_xf_heihei","name": "️嘿嘿影视(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/ww5934/AA/master/XH/heihei.json","jar": "https://raw.iqiq.io/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+{"key": "csp_xf_heihei","name": "️嘿嘿影视(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.fastgit.org/ww5934/AA/master/XH/heihei.json","jar": "https://raw.fastgit.org/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
 },
-{"key": "miaomiao","name": "️喵喵影视(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/ww5934/AA/master/XH/maiomiao.json","jar": "https://raw.iqiq.io/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+{"key": "miaomiao","name": "️喵喵影视(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.fastgit.org/ww5934/AA/master/XH/maiomiao.json","jar": "https://raw.fastgit.org/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
 },
-{"key": "美剧虫","name": "️美剧虫子(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/ww5934/AA/master/XH/%E7%BE%8E%E5%89%A7%E8%99%AB.json","jar": "https://raw.iqiq.io/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+{"key": "美剧虫","name": "️美剧虫子(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.fastgit.org/ww5934/AA/master/XH/%E7%BE%8E%E5%89%A7%E8%99%AB.json","jar": "https://raw.fastgit.org/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
 },
-{"key": "kankan","name": "️看看影视(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/ww5934/AA/master/XH/cehsi.json","jar": "https://raw.iqiq.io/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+{"key": "kankan","name": "️看看影视(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.fastgit.org/ww5934/AA/master/XH/cehsi.json","jar": "https://raw.fastgit.org/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
 },
-{"key": "稀饭","name": "️稀饭影视(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/ww5934/AA/master/XH/xifang.json","jar": "https://raw.iqiq.io/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+{"key": "稀饭","name": "️稀饭影视(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.fastgit.org/ww5934/AA/master/XH/xifang.json","jar": "https://raw.fastgit.org/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
 },
-{"key": "特播","name": "️特播影视(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/ww5934/AA/master/XH/%e7%89%b9%e6%92%ad%e5%bd%b1%e8%a7%86.json","jar": "https://raw.iqiq.io/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+{"key": "特播","name": "️特播影视(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.fastgit.org/ww5934/AA/master/XH/%e7%89%b9%e6%92%ad%e5%bd%b1%e8%a7%86.json","jar": "https://raw.fastgit.org/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
 },
-{"key": "大猪蹄子","name": "️大猪蹄子(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/ww5934/AA/master/XH/%E5%A4%A7%E7%8C%AA%E8%B9%84%E5%AD%90.json","jar": "https://raw.iqiq.io/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+{"key": "大猪蹄子","name": "️大猪蹄子(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.fastgit.org/ww5934/AA/master/XH/%E5%A4%A7%E7%8C%AA%E8%B9%84%E5%AD%90.json","jar": "https://raw.fastgit.org/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
 },
-{"key": "奈飞影视","name": "️奈飞影视(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/ww5934/AA/master/XH/naifei.json","jar": "https://raw.iqiq.io/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+{"key": "奈飞影视","name": "️奈飞影视(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.fastgit.org/ww5934/AA/master/XH/naifei.json","jar": "https://raw.fastgit.org/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
 },
-{"key": "素白1","name": "️素白影视(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/ww5934/AA/master/XH/subaibai2.json","jar": "https://raw.iqiq.io/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+{"key": "素白1","name": "️素白影视(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.fastgit.org/ww5934/AA/master/XH/subaibai2.json","jar": "https://raw.fastgit.org/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
 },
-{"key": "zizi","name": "️子子影视(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/ww5934/AA/master/XH/zizi.json","jar": "https://raw.iqiq.io/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+{"key": "zizi","name": "️子子影视(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.fastgit.org/ww5934/AA/master/XH/zizi.json","jar": "https://raw.fastgit.org/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
 },
-{"key": "3333影视","name": "️3333影视(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/ww5934/AA/master/XH/xyqh_333%e5%bd%b1%e8%a7%86.json","jar": "https://raw.iqiq.io/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+{"key": "3333影视","name": "️3333影视(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.fastgit.org/ww5934/AA/master/XH/xyqh_333%e5%bd%b1%e8%a7%86.json","jar": "https://raw.fastgit.org/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
 },
-{"key": "fositv影视","name": "️猫咪电影(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/fositv.json","jar": "https://raw.iqiq.io/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+{"key": "fositv影视","name": "️猫咪电影(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/fositv.json","jar": "https://raw.fastgit.org/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
 },
-{"key": "纽约影院","name": "纽约影院(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/ww5934/AA/master/XH/%e7%ba%bd%e7%ba%a6%e5%bd%b1%e9%99%a2.json","jar": "https://raw.iqiq.io/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+{"key": "纽约影院","name": "纽约影院(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.fastgit.org/ww5934/AA/master/XH/%e7%ba%bd%e7%ba%a6%e5%bd%b1%e9%99%a2.json","jar": "https://raw.fastgit.org/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
 },
-{"key": "pianku","name": "️假片库网(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/ww5934/AA/master/XH/pianku.json","jar": "https://raw.iqiq.io/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+{"key": "pianku","name": "️假片库网(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.fastgit.org/ww5934/AA/master/XH/pianku.json","jar": "https://raw.fastgit.org/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
 },
-{"key": "fanqie","name": "️番茄动漫(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/ww5934/AA/master/XH/%E7%95%AA%E8%8C%84%E5%8A%A8%E6%BC%AB.json","jar": "https://raw.iqiq.io/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+{"key": "fanqie","name": "️番茄动漫(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.fastgit.org/ww5934/AA/master/XH/%E7%95%AA%E8%8C%84%E5%8A%A8%E6%BC%AB.json","jar": "https://raw.fastgit.org/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
 },
-{"key": "40","name": "星辰影院(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.iqiq.io/ww5934/AA/master/XH/40ys.json","jar": "https://raw.iqiq.io/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+{"key": "40","name": "星辰影院(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.fastgit.org/ww5934/AA/master/XH/40ys.json","jar": "https://raw.fastgit.org/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
 },
-{"key": "真不卡","name": "️不卡影视(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/ww5934/AA/master/XH/zhenbuka.json","jar": "https://raw.iqiq.io/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+{"key": "真不卡","name": "️不卡影视(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.fastgit.org/ww5934/AA/master/XH/zhenbuka.json","jar": "https://raw.fastgit.org/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
 },
-{"key": "imax","name": "imax影院(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.iqiq.io/ww5934/AA/master/XH/imaxw.json","jar": "https://raw.iqiq.io/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+{"key": "imax","name": "imax影院(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.fastgit.org/ww5934/AA/master/XH/imaxw.json","jar": "https://raw.fastgit.org/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
 },
-{"key": "101视频","name": "️噜噜影视(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/ww5934/AA/master/XH/101.json","jar": "https://raw.iqiq.io/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+{"key": "101视频","name": "️噜噜影视(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.fastgit.org/ww5934/AA/master/XH/101.json","jar": "https://raw.fastgit.org/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
 },
-{"key": "aifei","name": "️艾菲影院(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/ww5934/AA/master/XH/aifei.json","jar": "https://raw.iqiq.io/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+{"key": "aifei","name": "️艾菲影院(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.fastgit.org/ww5934/AA/master/XH/aifei.json","jar": "https://raw.fastgit.org/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
 },
-{"key": "123","name": "️R P影视(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/ww5934/AA/master/XH/rp123.json","jar": "https://raw.iqiq.io/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+{"key": "123","name": "️R P影视(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.fastgit.org/ww5934/AA/master/XH/rp123.json","jar": "https://raw.fastgit.org/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
 },
-{"key": "影视之光","name": "️影视之光(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/ww5934/AA/master/XH/yszg.json","jar": "https://raw.iqiq.io/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+{"key": "影视之光","name": "️影视之光(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.fastgit.org/ww5934/AA/master/XH/yszg.json","jar": "https://raw.fastgit.org/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
 },
-{"key": "kanpain","name": "️看片狂人(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/ww5934/AA/master/XH/kanpin.json","jar": "https://raw.iqiq.io/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+{"key": "kanpain","name": "️看片狂人(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.fastgit.org/ww5934/AA/master/XH/kanpin.json","jar": "https://raw.fastgit.org/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
 },
-{"key": "耐看","name": "️耐看影视(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/ww5934/AA/master/XH/naikan.json","jar": "https://raw.iqiq.io/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+{"key": "耐看","name": "️耐看影视(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.fastgit.org/ww5934/AA/master/XH/naikan.json","jar": "https://raw.fastgit.org/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
 },
-{"key": "300看世界","name": "️三百世界(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/ww5934/AA/master/XH/300kanshijie.json","jar": "https://raw.iqiq.io/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+{"key": "300看世界","name": "️三百世界(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.fastgit.org/ww5934/AA/master/XH/300kanshijie.json","jar": "https://raw.fastgit.org/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
 },
-{"key": "爱看","name": "爱看电影(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/ww5934/AA/master/XH/lovekan.json","jar": "https://raw.iqiq.io/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+{"key": "爱看","name": "爱看电影(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.fastgit.org/ww5934/AA/master/XH/lovekan.json","jar": "https://raw.fastgit.org/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
 },
-{"key": "影视之家","name": "️影视之家(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/ww5934/AA/master/XH/yszj.json","jar": "https://raw.iqiq.io/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+{"key": "影视之家","name": "️影视之家(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.fastgit.org/ww5934/AA/master/XH/yszj.json","jar": "https://raw.fastgit.org/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
 },
-{"key": "freeok","name": "️freeok影视(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/ww5934/AA/master/XH/freeok.json","jar": "https://raw.iqiq.io/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+{"key": "freeok","name": "️freeok影视(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.fastgit.org/ww5934/AA/master/XH/freeok.json","jar": "https://raw.fastgit.org/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
 },
-{"key": "新视觉","name": "️视觉影视(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/ww5934/AA/master/XH/newshijue.json","jar": "https://raw.iqiq.io/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+{"key": "新视觉","name": "️视觉影视(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.fastgit.org/ww5934/AA/master/XH/newshijue.json","jar": "https://raw.fastgit.org/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
 },
-{"key": "白嫖者联盟","name": "️白嫖联盟(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/ww5934/AA/master/XH/bpzlm.json","jar": "https://raw.iqiq.io/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+{"key": "白嫖者联盟","name": "️白嫖联盟(XH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.fastgit.org/ww5934/AA/master/XH/bpzlm.json","jar": "https://raw.fastgit.org/ww5934/ts/main/xh.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
 },
-{"key": "csp_xpath_kuqimv","name": "🎤酷奇MV(XP)","type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://raw.iqiq.io/ww5934/AA/master/XP/kuqimv.json"
+{"key": "csp_xpath_kuqimv","name": "🎤酷奇MV(XP)","type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://raw.fastgit.org/ww5934/AA/master/XP/kuqimv.json"
 },
-{"key": "csp_xpath_zxzj2","name": "在线之家(XPF)","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.iqiq.io/ww5934/AA/master/XP/zxzj2.json"
+{"key": "csp_xpath_zxzj2","name": "在线之家(XPF)","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.fastgit.org/ww5934/AA/master/XP/zxzj2.json"
 },
-{"key": "csp_xpath_libv","name": "Libvio(XPF)","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.iqiq.io/ww5934/AA/master/XP/libv.json"
+{"key": "csp_xpath_libv","name": "Libvio(XPF)","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.fastgit.org/ww5934/AA/master/XP/libv.json"
 },
-{"key": "csp_xpath_xxys520","name": "小熊影视(XPF)","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.iqiq.io/ww5934/AA/master/XP/xxys520.json"
+{"key": "csp_xpath_xxys520","name": "小熊影视(XPF)","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.fastgit.org/ww5934/AA/master/XP/xxys520.json"
 },
-{"key": "csp_xpath_348z","name": "348电影(XPF)","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.iqiq.io/ww5934/AA/master/XP/348z.json"
+{"key": "csp_xpath_348z","name": "348电影(XPF)","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.fastgit.org/ww5934/AA/master/XP/348z.json"
 },
-{"key": "csp_xpath_Gimy","name": "GIMY影视(XPF)","type": 3,"api": "csp_XPathMacFilter","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.iqiq.io/ww5934/AA/master/XP/Gimy.json"
+{"key": "csp_xpath_Gimy","name": "GIMY影视(XPF)","type": 3,"api": "csp_XPathMacFilter","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.fastgit.org/ww5934/AA/master/XP/Gimy.json"
 },
-{"key": "csp_xpath_dmw","name": "动漫岛(XPF)","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.iqiq.io/ww5934/AA/master/XP/dmw.json"
+{"key": "csp_xpath_dmw","name": "动漫岛(XPF)","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.fastgit.org/ww5934/AA/master/XP/dmw.json"
 },
-{"key": "csp_xpath_6d","name": "六度TV(XPF)","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.iqiq.io/ww5934/AA/master/XP/6d.json"
+{"key": "csp_xpath_6d","name": "六度TV(XPF)","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.fastgit.org/ww5934/AA/master/XP/6d.json"
 },
-{"key": "csp_xpath_xiangdao","name": "农民影视(XPF)","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.iqiq.io/ww5934/AA/master/XP/xiangdao.json"
+{"key": "csp_xpath_xiangdao","name": "农民影视(XPF)","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.fastgit.org/ww5934/AA/master/XP/xiangdao.json"
 },
-{"key": "csp_xpath_lkvod","name": "耐看点播(XPF)","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.iqiq.io/ww5934/AA/master/XP/lkvod.json"
+{"key": "csp_xpath_lkvod","name": "耐看点播(XPF)","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.fastgit.org/ww5934/AA/master/XP/lkvod.json"
 },
-{"key": "csp_xpath_dm84","name": "动漫巴士(XP)","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/ww5934/AA/master/XP/dm84.json"
+{"key": "csp_xpath_dm84","name": "动漫巴士(XP)","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.fastgit.org/ww5934/AA/master/XP/dm84.json"
 },
-{"key": "csp_xpath_lezhutv","name": "乐猪TV(XPMac)","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/ww5934/AA/master/XP/lezhutv.json"
+{"key": "csp_xpath_lezhutv","name": "乐猪TV(XPMac)","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.fastgit.org/ww5934/AA/master/XP/lezhutv.json"
 },
-{"key": "csp_xpath_xfeiji","name": "小小影视(XP)","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/ww5934/AA/master/XP/xfeiji.json"
+{"key": "csp_xpath_xfeiji","name": "小小影视(XP)","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.fastgit.org/ww5934/AA/master/XP/xfeiji.json"
 },
-{"key": "csp_xpath_wmkk","name": "完美看看(XP)","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/ww5934/AA/master/XP/wanmeikk.json"
+{"key": "csp_xpath_wmkk","name": "完美看看(XP)","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.fastgit.org/ww5934/AA/master/XP/wanmeikk.json"
 },
-{"key": "drpy_js_360影视","name": "官源 | 360[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/360影视.js"
+{"key": "drpy_js_360影视","name": "官源 | 360[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/360影视.js"
 },
-{"key": "drpy_js_奇珍异兽","name": "官源 | 爱奇艺[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/奇珍异兽.js"
+{"key": "drpy_js_奇珍异兽","name": "官源 | 爱奇艺[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/奇珍异兽.js"
 },
-{"key": "drpy_js_优酷","name": "官源 | 优酷[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/优酷.js"
+{"key": "drpy_js_优酷","name": "官源 | 优酷[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/优酷.js"
 },
-{"key": "drpy_js_腾云驾雾","name": "官源 | 腾讯[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/腾云驾雾.js"
+{"key": "drpy_js_腾云驾雾","name": "官源 | 腾讯[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/腾云驾雾.js"
 },
-{"key": "drpy_js_百忙无果","name": "官源 | 芒果[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/百忙无果.js"
+{"key": "drpy_js_百忙无果","name": "官源 | 芒果[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/百忙无果.js"
 },
-{"key": "drpy_js_菜狗","name": "官源 | 搜狗[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/菜狗.js"
+{"key": "drpy_js_菜狗","name": "官源 | 搜狗[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/菜狗.js"
 },
-{"key": "drpy_js_乐猪TV","name": "影视 | 乐猪TV[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/乐猪TV.js"
+{"key": "drpy_js_乐猪TV","name": "影视 | 乐猪TV[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/乐猪TV.js"
 },
-{"key": "drpy_js_TV云播","name": "影视 | TV云播[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/TV云播.js"
+{"key": "drpy_js_TV云播","name": "影视 | TV云播[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/TV云播.js"
 },
-{"key": "drpy_js_fositv","name": "影视 | fositv[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/fositv.js"
+{"key": "drpy_js_fositv","name": "影视 | fositv[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/fositv.js"
 },
-{"key": "drpy_js_影渣渣","name": "影视 | 影渣渣[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/影渣渣.js"
+{"key": "drpy_js_影渣渣","name": "影视 | 影渣渣[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/影渣渣.js"
 },
-{"key": "drpy_js_鸭奈飞","name": "影视 | 鸭奈飞[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/鸭奈飞.js"
+{"key": "drpy_js_鸭奈飞","name": "影视 | 鸭奈飞[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/鸭奈飞.js"
 },
-{"key": "drpy_js_NFM影视","name": "影视 | NFM影视[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/NFM影视.js"
+{"key": "drpy_js_NFM影视","name": "影视 | NFM影视[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/NFM影视.js"
 },
-{"key": "drpy_js_LIBVIO","name": "影视 | LIBVIO[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/LIBVIO.js"
+{"key": "drpy_js_LIBVIO","name": "影视 | LIBVIO[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/LIBVIO.js"
 },
-{"key": "drpy_js_HDmoli","name": "影视 | HDmoli[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/HDmoli.js"
+{"key": "drpy_js_HDmoli","name": "影视 | HDmoli[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/HDmoli.js"
 },
-{"key": "drpy_js_Voflix","name": "影视 | Voflix[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/Voflix.js"
+{"key": "drpy_js_Voflix","name": "影视 | Voflix[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/Voflix.js"
 },
-{"key": "drpy_js_YOKE影视","name": "影视 | YOKE影视[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/YOKE影视.js"
+{"key": "drpy_js_YOKE影视","name": "影视 | YOKE影视[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/YOKE影视.js"
 },
-{"key": "drpy_js_城市影视","name": "影视 | 城市影视[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/城市影视.js"
+{"key": "drpy_js_城市影视","name": "影视 | 城市影视[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/城市影视.js"
 },
-{"key": "drpy_js_酷客影院","name": "影视 | 酷客影院[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/酷客影院.js"
+{"key": "drpy_js_酷客影院","name": "影视 | 酷客影院[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/酷客影院.js"
 },
-{"key": "drpy_js_奇优影院","name": "影视 | 奇优影院[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/奇优影院.js"
+{"key": "drpy_js_奇优影院","name": "影视 | 奇优影院[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/奇优影院.js"
 },
-{"key": "drpy_js_厂长资源","name": "影视 | 厂长资源[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/厂长资源.js"
+{"key": "drpy_js_厂长资源","name": "影视 | 厂长资源[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/厂长资源.js"
 },
-{"key": "drpy_js_在线之家","name": "影视 | 在线之家[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/在线之家.js"
+{"key": "drpy_js_在线之家","name": "影视 | 在线之家[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/在线之家.js"
 },
-{"key": "drpy_js_饭团电影","name": "影视 | 饭团电影[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/饭团.js"
+{"key": "drpy_js_饭团电影","name": "影视 | 饭团电影[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/饭团.js"
 },
-{"key": "drpy_js_酷云七七","name": "影视 | 酷云七七[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/酷云77.js"
+{"key": "drpy_js_酷云七七","name": "影视 | 酷云七七[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/酷云77.js"
 },
-{"key": "drpy_js_骚火电影","name": "影视 | 骚火电影[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/骚火电影.js"
+{"key": "drpy_js_骚火电影","name": "影视 | 骚火电影[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/骚火电影.js"
 },
-{"key": "drpy_js_回响影视","name": "影视 | 回响影视[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/回响影视.js"
+{"key": "drpy_js_回响影视","name": "影视 | 回响影视[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/回响影视.js"
 },
-{"key": "drpy_js_闪影影院","name": "影视 | 闪影影院[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/闪影影院.js"
+{"key": "drpy_js_闪影影院","name": "影视 | 闪影影院[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/闪影影院.js"
 },
-{"key": "drpy_js_秋霞影院","name": "影视 | 秋霞影院[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/秋霞.js"
+{"key": "drpy_js_秋霞影院","name": "影视 | 秋霞影院[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/秋霞.js"
 },
-{"key": "drpy_js_哔哩影视","name": "影视 | 哔哩影视[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/哔哩影视.js"
+{"key": "drpy_js_哔哩影视","name": "影视 | 哔哩影视[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/哔哩影视.js"
 },
-{"key": "drpy_js_DJ音乐","name": "音频 | DJ音乐[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/DJ音乐.js","playerType": "2"
+{"key": "drpy_js_DJ音乐","name": "音频 | DJ音乐[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/DJ音乐.js","playerType": "2"
 },
-{"key": "drpy_js_蜻蜓FM","name": "广播 | 蜻蜓FM[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/蜻蜓FM.js","playerType": "2"
+{"key": "drpy_js_蜻蜓FM","name": "广播 | 蜻蜓FM[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/蜻蜓FM.js","playerType": "2"
 },
-{"key": "drpy_js_海盗听书","name": "听书 | 海盗听书[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/海盗听书.js","playerType": "2"
+{"key": "drpy_js_海盗听书","name": "听书 | 海盗听书[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/海盗听书.js","playerType": "2"
 },
-{"key": "drpy_js_听书网","name": "听书 | 听书网[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/听书网.js","playerType": "2"
+{"key": "drpy_js_听书网","name": "听书 | 听书网[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/听书网.js","playerType": "2"
 },
-{"key": "drpy_js_有声小说","name": "听书 | 有声小说[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/有声小说吧.js","playerType": "2"
+{"key": "drpy_js_有声小说","name": "听书 | 有声小说[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/有声小说吧.js","playerType": "2"
 },
-{"key": "drpy_js_短视频","name": "聚合 | 短视频[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/短视频.js"
+{"key": "drpy_js_短视频","name": "聚合 | 短视频[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/短视频.js"
 },
-{"key": "drpy_js_酷奇MV","name": "MV | 酷奇[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/酷奇MV.js"
+{"key": "drpy_js_酷奇MV","name": "MV | 酷奇[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/酷奇MV.js"
 },
-{"key": "drpy_js_爱车MV","name": "MV | 爱车[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/爱车MV.js"
+{"key": "drpy_js_爱车MV","name": "MV | 爱车[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/爱车MV.js"
 },
-{"key": "drpy_js_哔哩直播","name": "直播 | 哔哩[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/哔哩直播.js"
+{"key": "drpy_js_哔哩直播","name": "直播 | 哔哩[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/哔哩直播.js"
 },
-{"key": "drpy_js_斗鱼直播","name": "直播 | 斗鱼[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/斗鱼直播.js"
+{"key": "drpy_js_斗鱼直播","name": "直播 | 斗鱼[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/斗鱼直播.js"
 },
-{"key": "drpy_js_虎牙直播","name": "直播 | 虎牙[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/虎牙直播.js"
+{"key": "drpy_js_虎牙直播","name": "直播 | 虎牙[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/虎牙直播.js"
 },
-{"key": "drpy_js_JustLive","name": "直播 | JustLive[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/JustLive.js"
+{"key": "drpy_js_JustLive","name": "直播 | JustLive[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/JustLive.js"
 },
-{"key": "drpy_js_JRKAN直播","name": "体育 | JRKAN直播[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/JRKAN直播.js"
+{"key": "drpy_js_JRKAN直播","name": "体育 | JRKAN直播[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/JRKAN直播.js"
 },
-{"key": "drpy_js_88看球","name": "体育 | 88看球[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/88看球.js"
+{"key": "drpy_js_88看球","name": "体育 | 88看球[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/88看球.js"
 },
-{"key": "drpy_js_310直播","name": "体育 | 310直播[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/310直播.js"
+{"key": "drpy_js_310直播","name": "体育 | 310直播[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/310直播.js"
 },
-{"key": "drpy_js_抓饭体育","name": "体育 | 抓饭体育[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/抓饭体育.js"
+{"key": "drpy_js_抓饭体育","name": "体育 | 抓饭体育[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/抓饭体育.js"
 },
-{"key": "drpy_js_兔小贝","name": "动漫 | 兔小贝[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/兔小贝.js"
+{"key": "drpy_js_兔小贝","name": "动漫 | 兔小贝[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/兔小贝.js"
 },
-{"key": "drpy_js_AnFuns","name": "动漫 | AnFuns[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/AnFuns.js"
+{"key": "drpy_js_AnFuns","name": "动漫 | AnFuns[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/AnFuns.js"
 },
-{"key": "drpy_js_AGE动漫","name": "动漫 | AGE动漫[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/AGE动漫.js"
+{"key": "drpy_js_AGE动漫","name": "动漫 | AGE动漫[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/AGE动漫.js"
 },
-{"key": "drpy_js_异世界动漫","name": "动漫 | 异世界动漫[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/异世界动漫.js"
+{"key": "drpy_js_异世界动漫","name": "动漫 | 异世界动漫[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/异世界动漫.js"
 },
-{"key": "drpy_js_007影视","name": "影视 | 007影视[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/007影视.js"
+{"key": "drpy_js_007影视","name": "影视 | 007影视[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/007影视.js"
 },
-{"key": "drpy_js_1080P","name": "影视 | 1080P[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/1080P.js"
+{"key": "drpy_js_1080P","name": "影视 | 1080P[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/1080P.js"
 },
-{"key": "drpy_js_2099电影","name": "影视 | 2099电影[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/2099电影.js"
+{"key": "drpy_js_2099电影","name": "影视 | 2099电影[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/2099电影.js"
 },
-{"key": "drpy_js_69美剧","name": "影视 | 69美剧[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/69美剧.js"
+{"key": "drpy_js_69美剧","name": "影视 | 69美剧[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/69美剧.js"
 },
-{"key": "drpy_js_8号影院","name": "影视 | 8号影院[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/8号影院.js"
+{"key": "drpy_js_8号影院","name": "影视 | 8号影院[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/8号影院.js"
 },
-{"key": "drpy_js_99影院","name": "影视 | 99影院[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/99影院.js"
+{"key": "drpy_js_99影院","name": "影视 | 99影院[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/99影院.js"
 },
-{"key": "drpy_js_9U电影","name": "影视 | 9U电影[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/9U电影.js"
+{"key": "drpy_js_9U电影","name": "影视 | 9U电影[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/9U电影.js"
 },
-{"key": "drpy_js_BD360","name": "影视 | BD360[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/BD360.js"
+{"key": "drpy_js_BD360","name": "影视 | BD360[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/BD360.js"
 },
-{"key": "drpy_js_KOK影视","name": "影视 | KOK影视[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/KOK影视.js"
+{"key": "drpy_js_KOK影视","name": "影视 | KOK影视[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/KOK影视.js"
 },
-{"key": "drpy_js_TV蜂影院","name": "影视 | TV蜂影院[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/TV蜂.js"
+{"key": "drpy_js_TV蜂影院","name": "影视 | TV蜂影院[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/TV蜂.js"
 },
-{"key": "drpy_js_vidhub","name": "影视 | vidhub[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/vidhub.js"
+{"key": "drpy_js_vidhub","name": "影视 | vidhub[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/vidhub.js"
 },
-{"key": "drpy_js_爱迪影视","name": "影视 | 爱迪影视[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/爱迪影视.js"
+{"key": "drpy_js_爱迪影视","name": "影视 | 爱迪影视[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/爱迪影视.js"
 },
-{"key": "drpy_js_爱看电影","name": "影视 | 爱看电影[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/爱看电影.js"
+{"key": "drpy_js_爱看电影","name": "影视 | 爱看电影[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/爱看电影.js"
 },
-{"key": "drpy_js_爱看影视","name": "影视 | 爱看影视[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/爱看影视.js"
+{"key": "drpy_js_爱看影视","name": "影视 | 爱看影视[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/爱看影视.js"
 },
-{"key": "drpy_js_爱猫影院","name": "影视 | 爱猫影院[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/爱猫影院.js"
+{"key": "drpy_js_爱猫影院","name": "影视 | 爱猫影院[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/爱猫影院.js"
 },
-{"key": "drpy_js_艾菲影视","name": "影视 | 艾菲影视[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/艾菲影视.js"
+{"key": "drpy_js_艾菲影视","name": "影视 | 艾菲影视[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/艾菲影视.js"
 },
-{"key": "drpy_js_八蛋影视","name": "影视 | 八蛋影视[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/八蛋影视.js"
+{"key": "drpy_js_八蛋影视","name": "影视 | 八蛋影视[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/八蛋影视.js"
 },
-{"key": "drpy_js_布雷蓝光","name": "影视 | 布雷蓝光[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/布雷蓝光.js"
+{"key": "drpy_js_布雷蓝光","name": "影视 | 布雷蓝光[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/布雷蓝光.js"
 },
-{"key": "drpy_js_超前点播","name": "影视 | 超前点播[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/超前点播.js"
+{"key": "drpy_js_超前点播","name": "影视 | 超前点播[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/超前点播.js"
 },
-{"key": "drpy_js_尘落影视","name": "影视 | 尘落影视[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/尘落影视.js"
+{"key": "drpy_js_尘落影视","name": "影视 | 尘落影视[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/尘落影视.js"
 },
-{"key": "drpy_js_楚门影院","name": "影视 | 楚门影院[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/楚门影院.js"
+{"key": "drpy_js_楚门影院","name": "影视 | 楚门影院[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/楚门影院.js"
 },
-{"key": "drpy_js_大米星球","name": "影视 | 大米星球[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/大米星球.js"
+{"key": "drpy_js_大米星球","name": "影视 | 大米星球[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/大米星球.js"
 },
-{"key": "drpy_js_大师兄影视","name": "影视 | 大师兄影视[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/大师兄影视.js"
+{"key": "drpy_js_大师兄影视","name": "影视 | 大师兄影视[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/大师兄影视.js"
 },
-{"key": "drpy_js_大猪蹄子","name": "影视 | 大猪蹄子[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/大猪蹄子.js"
+{"key": "drpy_js_大猪蹄子","name": "影视 | 大猪蹄子[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/大猪蹄子.js"
 },
-{"key": "drpy_js_碟调影视","name": "影视 | 碟调影视[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/碟调影视.js"
+{"key": "drpy_js_碟调影视","name": "影视 | 碟调影视[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/碟调影视.js"
 },
-{"key": "drpy_js_多瑙影视","name": "影视 | 多瑙影视[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/多瑙影视.js","playerType": "2"
+{"key": "drpy_js_多瑙影视","name": "影视 | 多瑙影视[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/多瑙影视.js","playerType": "2"
 },
-{"key": "drpy_js_番茄影视","name": "影视 | 番茄影视[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/番茄影视.js"
+{"key": "drpy_js_番茄影视","name": "影视 | 番茄影视[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/番茄影视.js"
 },
-{"key": "drpy_js_浮生半日","name": "影视 | 浮生半日[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/浮生半日.js"
+{"key": "drpy_js_浮生半日","name": "影视 | 浮生半日[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/浮生半日.js"
 },
-{"key": "drpy_js_干饭影视","name": "影视 | 干饭影视[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/干饭影视.js"
+{"key": "drpy_js_干饭影视","name": "影视 | 干饭影视[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/干饭影视.js"
 },
-{"key": "drpy_js_捷华影视","name": "影视 | 捷华影视[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/捷华影视.js"
+{"key": "drpy_js_捷华影视","name": "影视 | 捷华影视[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/捷华影视.js"
 },
-{"key": "drpy_js_金曼影视","name": "影视 | 金曼影视[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/金曼影视.js"
+{"key": "drpy_js_金曼影视","name": "影视 | 金曼影视[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/金曼影视.js"
 },
-{"key": "drpy_js_剧荒影院","name": "影视 | 剧荒影院[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/剧荒.js"
+{"key": "drpy_js_剧荒影院","name": "影视 | 剧荒影院[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/剧荒.js"
 },
-{"key": "drpy_js_剧迷影院","name": "影视 | 剧迷影院[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/剧迷.js"
+{"key": "drpy_js_剧迷影院","name": "影视 | 剧迷影院[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/剧迷.js"
 },
-{"key": "drpy_js_看BZ影视","name": "影视 | 看BZ影视[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/看BZ影视.js"
+{"key": "drpy_js_看BZ影视","name": "影视 | 看BZ影视[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/看BZ影视.js"
 },
-{"key": "drpy_js_看看电影","name": "影视 | 看看电影[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/看看电影.js"
+{"key": "drpy_js_看看电影","name": "影视 | 看看电影[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/看看电影.js"
 },
-{"key": "drpy_js_看了么","name": "影视 | 看了么[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/看了么.js"
+{"key": "drpy_js_看了么","name": "影视 | 看了么[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/看了么.js"
 },
-{"key": "drpy_js_看片狂人","name": "影视 | 看片狂人[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/看片狂人.js"
+{"key": "drpy_js_看片狂人","name": "影视 | 看片狂人[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/看片狂人.js"
 },
-{"key": "drpy_js_快云影院","name": "影视 | 快云影院[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/快云影院.js"
+{"key": "drpy_js_快云影院","name": "影视 | 快云影院[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/快云影院.js"
 },
-{"key": "drpy_js_来看点播","name": "影视 | 来看点播[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/来看点播.js"
+{"key": "drpy_js_来看点播","name": "影视 | 来看点播[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/来看点播.js"
 },
-{"key": "drpy_js_蓝光影院","name": "影视 | 蓝光影院[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/蓝光影院.js"
+{"key": "drpy_js_蓝光影院","name": "影视 | 蓝光影院[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/蓝光影院.js"
 },
-{"key": "drpy_js_乐动影视","name": "影视 | 乐动影视[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/乐动影视.js"
+{"key": "drpy_js_乐动影视","name": "影视 | 乐动影视[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/乐动影视.js"
 },
-{"key": "drpy_js_利丽娅电影","name": "影视 | 利丽娅电影[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/利丽娅电影.js"
+{"key": "drpy_js_利丽娅电影","name": "影视 | 利丽娅电影[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/利丽娅电影.js"
 },
-{"key": "drpy_js_两个 BT","name": "影视 | 两个BT[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/两个BT.js"
+{"key": "drpy_js_两个 BT","name": "影视 | 两个BT[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/两个BT.js"
 },
-{"key": "drpy_js_量子影视","name": "影视 | 量子影视[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/量子影视.js"
+{"key": "drpy_js_量子影视","name": "影视 | 量子影视[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/量子影视.js"
 },
-{"key": "drpy_js_麻花影视","name": "影视 | 麻花影视[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/麻花影视.js"
+{"key": "drpy_js_麻花影视","name": "影视 | 麻花影视[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/麻花影视.js"
 },
-{"key": "drpy_js_蚂蚁影视","name": "影视 | 蚂蚁影视[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/蚂蚁影视.js"
+{"key": "drpy_js_蚂蚁影视","name": "影视 | 蚂蚁影视[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/蚂蚁影视.js"
 },
-{"key": "drpy_js_麦豆网","name": "影视 | 麦豆网[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/麦豆.js"
+{"key": "drpy_js_麦豆网","name": "影视 | 麦豆网[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/麦豆.js"
 },
-{"key": "drpy_js_麦豆com","name": "影视 | 麦豆com[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/麦豆com.js"
+{"key": "drpy_js_麦豆com","name": "影视 | 麦豆com[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/麦豆com.js"
 },
-{"key": "drpy_js_美视网","name": "影视 | 美视网[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/美视网.js"
+{"key": "drpy_js_美视网","name": "影视 | 美视网[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/美视网.js"
 },
-{"key": "drpy_js_米宝影院","name": "影视 | 米宝影院[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/米宝影院.js"
+{"key": "drpy_js_米宝影院","name": "影视 | 米宝影院[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/米宝影院.js"
 },
-{"key": "drpy_js_喵喵影院","name": "影视 | 喵喵影院[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/喵喵.js"
+{"key": "drpy_js_喵喵影院","name": "影视 | 喵喵影院[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/喵喵.js"
 },
-{"key": "drpy_js_莫扎兔儿","name": "影视 | 莫扎兔儿[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/莫扎兔.js"
+{"key": "drpy_js_莫扎兔儿","name": "影视 | 莫扎兔儿[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/莫扎兔.js"
 },
-{"key": "drpy_js_南瓜影院","name": "影视 | 南瓜影院[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/南瓜影院.js"
+{"key": "drpy_js_南瓜影院","name": "影视 | 南瓜影院[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/南瓜影院.js"
 },
-{"key": "drpy_js_南柯电影","name": "影视 | 南柯电影[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/南柯电影网.js"
+{"key": "drpy_js_南柯电影","name": "影视 | 南柯电影[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/南柯电影网.js"
 },
-{"key": "drpy_js_胖虎影视","name": "影视 | 胖虎影视[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/胖虎影视.js"
+{"key": "drpy_js_胖虎影视","name": "影视 | 胖虎影视[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/胖虎影视.js"
 },
-{"key": "drpy_js_霹雳影视","name": "影视 | 霹雳影视[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/霹雳影视.js"
+{"key": "drpy_js_霹雳影视","name": "影视 | 霹雳影视[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/霹雳影视.js"
 },
-{"key": "drpy_js_皮皮泡儿","name": "影视 | 皮皮泡儿[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/皮皮泡.js"
+{"key": "drpy_js_皮皮泡儿","name": "影视 | 皮皮泡儿[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/皮皮泡.js"
 },
-{"key": "drpy_js_七时影院","name": "影视 | 七时影院[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/七小时影院.js"
+{"key": "drpy_js_七时影院","name": "影视 | 七时影院[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/七小时影院.js"
 },
-{"key": "drpy_js_起飞影院","name": "影视 | 起飞影院[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/起飞影院.js"
+{"key": "drpy_js_起飞影院","name": "影视 | 起飞影院[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/起飞影院.js"
 },
-{"key": "drpy_js_趣享星趣","name": "影视 | 趣享星趣[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/趣享星趣.js"
+{"key": "drpy_js_趣享星趣","name": "影视 | 趣享星趣[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/趣享星趣.js"
 },
-{"key": "drpy_js_人人影视","name": "影视 | 人人影视[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/人人影视.js"
+{"key": "drpy_js_人人影视","name": "影视 | 人人影视[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/人人影视.js"
 },
-{"key": "drpy_js_盛世电影","name": "影视 | 盛世电影[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/盛世电影网.js"
+{"key": "drpy_js_盛世电影","name": "影视 | 盛世电影[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/盛世电影网.js"
 },
-{"key": "drpy_js_视觉影院","name": "影视 | 视觉影院[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/视觉影院.js"
+{"key": "drpy_js_视觉影院","name": "影视 | 视觉影院[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/视觉影院.js"
 },
-{"key": "drpy_js_视中影视","name": "影视 | 视中影视[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/视中心影视.js"
+{"key": "drpy_js_视中影视","name": "影视 | 视中影视[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/视中心影视.js"
 },
-{"key": "drpy_js_首播影院","name": "影视 | 首播影院[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/首播影院.js"
+{"key": "drpy_js_首播影院","name": "影视 | 首播影院[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/首播影院.js"
 },
-{"key": "drpy_js_双十电影","name": "影视 | 双十电影[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/双十电影.js"
+{"key": "drpy_js_双十电影","name": "影视 | 双十电影[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/双十电影.js"
 },
-{"key": "drpy_js_思乐影视","name": "影视 | 思乐影视[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/思乐影视.js"
+{"key": "drpy_js_思乐影视","name": "影视 | 思乐影视[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/思乐影视.js"
 },
-{"key": "drpy_js_私人影院","name": "影视 | 私人影院[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/私人影院.js"
+{"key": "drpy_js_私人影院","name": "影视 | 私人影院[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/私人影院.js"
 },
-{"key": "drpy_js_四个圈儿","name": "影视 | 四个圈儿[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/四个圈影视.js"
+{"key": "drpy_js_四个圈儿","name": "影视 | 四个圈儿[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/四个圈影视.js"
 },
-{"key": "drpy_js_天空影视","name": "影视 | 天空影视[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/天空影视.js"
+{"key": "drpy_js_天空影视","name": "影视 | 天空影视[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/天空影视.js"
 },
-{"key": "drpy_js_天天视频","name": "影视 | 天天视频[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/天天视频.js"
+{"key": "drpy_js_天天视频","name": "影视 | 天天视频[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/天天视频.js"
 },
-{"key": "drpy_js_天天影视","name": "影视 | 天天影视[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/天天影视.js"
+{"key": "drpy_js_天天影视","name": "影视 | 天天影视[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/天天影视.js"
 },
-{"key": "drpy_js_土狗影院","name": "影视 | 土狗影院[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/土狗影院.js"
+{"key": "drpy_js_土狗影院","name": "影视 | 土狗影院[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/土狗影院.js"
 },
-{"key": "drpy_js_完美看看","name": "影视 | 完美看看[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/完美看看.js"
+{"key": "drpy_js_完美看看","name": "影视 | 完美看看[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/完美看看.js"
 },
-{"key": "drpy_js_万能影视","name": "影视 | 万能影视[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/万能影视.js"
+{"key": "drpy_js_万能影视","name": "影视 | 万能影视[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/万能影视.js"
 },
-{"key": "drpy_js_我爱电影","name": "影视 | 我爱电影[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/我爱电影网.js"
+{"key": "drpy_js_我爱电影","name": "影视 | 我爱电影[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/我爱电影网.js"
 },
-{"key": "drpy_js_我爱跟剧","name": "影视 | 我爱跟剧[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/我爱跟剧.js"
+{"key": "drpy_js_我爱跟剧","name": "影视 | 我爱跟剧[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/我爱跟剧.js"
 },
-{"key": "drpy_js_溪谷影视","name": "影视 | 溪谷影视[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/溪谷影视.js"
+{"key": "drpy_js_溪谷影视","name": "影视 | 溪谷影视[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/溪谷影视.js"
 },
-{"key": "drpy_js_西瓜影视","name": "影视 | 西瓜影视[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/西瓜影视.js"
+{"key": "drpy_js_西瓜影视","name": "影视 | 西瓜影视[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/西瓜影视.js"
 },
-{"key": "drpy_js_小白菜儿","name": "影视 | 小白菜儿[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/小白菜电影.js"
+{"key": "drpy_js_小白菜儿","name": "影视 | 小白菜儿[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/小白菜电影.js"
 },
-{"key": "drpy_js_小宝影视","name": "影视 | 小宝影视[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/小宝影视.js"
+{"key": "drpy_js_小宝影视","name": "影视 | 小宝影视[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/小宝影视.js"
 },
-{"key": "drpy_js_星辰影院","name": "影视 | 星辰影院[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/星辰.js"
+{"key": "drpy_js_星辰影院","name": "影视 | 星辰影院[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/星辰.js"
 },
-{"key": "drpy_js_伊人追剧","name": "影视 | 伊人追剧[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/伊人追剧.js"
+{"key": "drpy_js_伊人追剧","name": "影视 | 伊人追剧[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/伊人追剧.js"
 },
-{"key": "drpy_js_映迷影院","name": "影视 | 映迷影院[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/映迷影院.js"
+{"key": "drpy_js_映迷影院","name": "影视 | 映迷影院[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/映迷影院.js"
 },
-{"key": "drpy_js_云播影院","name": "影视 | 云播影院[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/云播.js"
+{"key": "drpy_js_云播影院","name": "影视 | 云播影院[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/云播.js"
 },
-{"key": "drpy_js_真不卡儿","name": "影视 | 真不卡儿[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/真不卡.js"
+{"key": "drpy_js_真不卡儿","name": "影视 | 真不卡儿[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/真不卡.js"
 },
-{"key": "drpy_js_追剧达人","name": "影视 | 追剧达人[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/追剧达人.js"
+{"key": "drpy_js_追剧达人","name": "影视 | 追剧达人[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/追剧达人.js"
 },
-{"key": "drpy_js_追剧啦儿","name": "影视 | 追剧啦儿[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/追剧啦.js"
+{"key": "drpy_js_追剧啦儿","name": "影视 | 追剧啦儿[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/追剧啦.js"
 },
-{"key": "drpy_js_子子影视","name": "影视 | 子子影视[js]","type": 3,"api": "https://raw.iqiq.io/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.iqiq.io/ww5934/AA/master/JS/js/子子影视.js"
+{"key": "drpy_js_子子影视","name": "影视 | 子子影视[js]","type": 3,"api": "https://raw.fastgit.org/ww5934/AA/master/JS/lib/drpy2.min.js","ext": "https://raw.fastgit.org/ww5934/AA/master/JS/js/子子影视.js"
 },
 {"key": "优质资源","name": "优质资源(切)","type": 1,"api": "https://api.1080zyku.com/inc/apijson.php/provide/vod/","searchable": 1,"quickSearch": 1,"categories": ["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]
 },
