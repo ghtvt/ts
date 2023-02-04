@@ -2,7 +2,9 @@
 "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]}]}],
 "sites": [
-{"key": "js豆瓣","name": "豆瓣荐片┃dr首页","type": 3,"api": "https://agit.ai/767820774/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js","ext": "http://w.g9.pub:66/2251087869/smallmi/js/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 0
+{"key": "js豆瓣","name": "豆瓣荐片①┃dr首页","type": 3,"api": "https://agit.ai/767820774/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js","ext": "http://w.g9.pub:66/2251087869/smallmi/js/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 0
+},
+{"key": "dr_豆瓣","name": "豆瓣荐片②┃dr备用","type": 4,"api": "https://t4.secan.icu/vod?sites=all&ali_token=&douban=","searchable": 0,"quickSearch": 0,"filterable": 0
 },
 {"key": "SP360","name": "影视聚合┃360","type": 3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "9248c57eb22ace4a3431fbd1a979465f"
 },
@@ -484,7 +486,8 @@
 },
 {"name": "Json轮询","type": 2,"url": "Sequence"
 },
-{"name":"七七","type":0,"url":"https://jx.777jiexi.com/player/?url=","ext":{"header":{"User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"}}},
+{"name": "七七","type": 0,"url": "https://jx.777jiexi.com/player/?url=","ext": {"header": {"User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"}}
+},
 {"name": "①号解析","url": "https://jiuku.site/addons/dp/player/index.php?key=0&id=104818&url=","type": 0,"ext": {"flag": ["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header": {"User-Agent": "Mozilla/5.0"}},"header": {"User-Agent": "Mozilla/5.0"}
 },
 {"name": "②号解析","type": 1,"url": "https://jx.777jiexi.com/player/?url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}
