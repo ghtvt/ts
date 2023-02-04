@@ -2,7 +2,7 @@
 "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]}]}],
 "sites": [
-{"key": "js豆瓣","name": "豆瓣荐片┃dr首页","type": 3,"api": "https://ghproxy.com/https://github.com/ghtvt/AA/raw/master/JS/lib/drpy2.min.js","ext": "https://ghproxy.com/https://github.com/ghtvt/AA/raw/master/JS/js/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 0
+{"key": "js豆瓣","name": "豆瓣荐片┃dr首页","type": 3,"api": "https://agit.ai/767820774/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js","ext": "http://w.g9.pub:66/2251087869/smallmi/js/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 0
 },
 {"key": "SP360","name": "影视聚合┃360","type": 3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "9248c57eb22ace4a3431fbd1a979465f"
 },
